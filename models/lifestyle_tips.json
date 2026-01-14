@@ -1,0 +1,83 @@
+{
+    "Smoking": {
+        "Yes": [
+            "Reduce smoking gradually",
+            "Try nicotine replacement",
+            "Consult support groups"
+        ]
+    },
+    "AlcoholDrinking": {
+        "Yes": [
+            "Limit alcohol to minimal intake",
+            "Increase water intake"
+        ]
+    },
+    "PhysicalActivity": {
+        "No": [
+            "Start with 20 minutes walking daily",
+            "Try simple yoga exercises"
+        ]
+    },
+    "SleepTime": {
+        "Low": [
+            "Get 7-8 hours sleep",
+            "Avoid screens before bedtime"
+        ],
+        "High": [
+            "Avoid sleeping more than 9 hours",
+            "Maintain a sleep cycle"
+        ]
+    },
+    "BMI": {
+        "Underweight": [
+            "Increase calorie intake",
+            "Eat protein-rich foods"
+        ],
+        "Normal": [
+            "Maintain your current routine"
+        ],
+        "Overweight": [
+            "Avoid sugar",
+            "Walk 30 mins daily"
+        ],
+        "Obese": [
+            "Follow calorie-deficit diet",
+            "Consult dietitian"
+        ]
+    },
+    "GenHealth": {
+        "Poor": [
+            "Improve diet immediately",
+            "Increase water intake",
+            "Consult doctor"
+        ],
+        "Fair": [
+            "Increase sleep quality",
+            "Improve lifestyle balance"
+        ],
+        "Good": [
+            "Keep your routine steady"
+        ],
+        "Very good": [
+            "Maintain positive habits"
+        ]
+    },
+    "Diabetic": {
+        "Yes": [
+            "Monitor glucose daily",
+            "Avoid sweets",
+            "Increase fiber intake"
+        ]
+    },
+    "HeartDisease": {
+        "Yes": [
+            "Avoid salt",
+            "Do cardio exercises daily"
+        ]
+    },
+    "Stroke": {
+        "Yes": [
+            "Follow physiotherapy routines"
+        ]
+    }
+}
